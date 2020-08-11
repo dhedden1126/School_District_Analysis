@@ -16,3 +16,9 @@ The data collected will assist in the analysis needed for understanding of money
 
 ![Screen Shot 2020-08-11 at 6 47 15 PM](https://user-images.githubusercontent.com/67982071/89959537-a983eb00-dc0a-11ea-90a6-e3e034c7a294.png)
 ![Screen Shot 2020-08-11 at 6 47 40 PM](https://user-images.githubusercontent.com/67982071/89959552-b0aaf900-dc0a-11ea-8c6a-444a3f623d8e.png)
+
+- Data shows the benefits of having a smaller size school is an indicator to better overall student performance. This may be to student-teacher ratios or other factors
+![Screen Shot 2020-08-11 at 6 49 49 PM](https://user-images.githubusercontent.com/67982071/89960098-fe743100-dc0b-11ea-905e-e435c0463db9.png)
+
+
+
