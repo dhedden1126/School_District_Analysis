@@ -13,3 +13,5 @@ The data collected will assist in the analysis needed for understanding of money
 ![Screen Shot 2020-08-11 at 6 41 37 PM](https://user-images.githubusercontent.com/67982071/89958746-adaf0900-dc08-11ea-9f85-34623e98c9e7.png)
 
 - By backing out the 9th grade scores, it reflects a decrease in student performance across the board. There's a decrease in overall passing percentages down to ~65%
+![Screen Shot 2020-08-11 at 6 47 15 PM](https://user-images.githubusercontent.com/67982071/89959537-a983eb00-dc0a-11ea-90a6-e3e034c7a294.png)
+![Screen Shot 2020-08-11 at 6 47 40 PM](https://user-images.githubusercontent.com/67982071/89959552-b0aaf900-dc0a-11ea-8c6a-444a3f623d8e.png)
