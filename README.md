@@ -27,6 +27,7 @@ The data collected will assist in the analysis needed for understanding of money
 
 - Spending ranges per student also shows that there's not a direct correlation between dollars spent and student performance. 
 
+![Screen Shot 2020-08-11 at 7 59 32 PM](https://user-images.githubusercontent.com/67982071/89960707-bd7d1c00-dc0d-11ea-8521-f793477eb7c1.png)
 
 ## Summary
 There are clear advantages to having smaller schools and making the most of your resources to preserve spending per student. It's critical to look at the data in multiple ways to conclude meaningful insights to drive performance metrics. 
