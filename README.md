@@ -21,5 +21,12 @@ The data collected will assist in the analysis needed for understanding of money
 
 ![Screen Shot 2020-08-11 at 6 49 49 PM](https://user-images.githubusercontent.com/67982071/89960098-fe743100-dc0b-11ea-905e-e435c0463db9.png)
 
+- Analysis of the school type (Charter vs. District) shows a compelling statistic of Overall Passing % of students at 87% compared to 54% for district schools.
+
+![Screen Shot 2020-08-11 at 6 49 57 PM](https://user-images.githubusercontent.com/67982071/89960350-ccaf9a00-dc0c-11ea-9625-a29fcd7406ce.png)
+
+- Spending ranges per student also shows that there's not a direct correlation between dollars spent and student performance. 
 
 
+## Summary
+There are clear advantages to having smaller schools and making the most of your resources to preserve spending per student. It's critical to look at the data in multiple ways to conclude meaningful insights to drive performance metrics. 
